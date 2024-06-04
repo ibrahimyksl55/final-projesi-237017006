@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECZANE_UYGULAMASI", "kullanıcı girişi\ECZANE_UYGULAMASI.csproj", "{73050EB6-3582-4D82-BEA1-2F02AE8684BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73050EB6-3582-4D82-BEA1-2F02AE8684BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73050EB6-3582-4D82-BEA1-2F02AE8684BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73050EB6-3582-4D82-BEA1-2F02AE8684BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73050EB6-3582-4D82-BEA1-2F02AE8684BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D1CD64C-0CB6-4B8A-9839-13709D33ABCB}
+	EndGlobalSection
+EndGlobal

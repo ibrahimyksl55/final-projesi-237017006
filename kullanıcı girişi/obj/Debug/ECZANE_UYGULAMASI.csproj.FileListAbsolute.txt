@@ -1,0 +1,22 @@
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.exe.config
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.exe
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.pdb
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\ECZANE_UYGULAMASI.csprojAssemblyReference.cache
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Anasayfa.resources
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.GirişFormu.resources
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\ECZANE_UYGULAMASI.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\ECZANE_UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.exe
+C:\Users\ibrahim\Desktop\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.pdb
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.exe.config
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.exe
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\bin\Debug\kullanıcı girişi.pdb
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\ECZANE_UYGULAMASI.csprojAssemblyReference.cache
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Anasayfa.resources
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.GirişFormu.resources
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı_girişi.Properties.Resources.resources
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\ECZANE_UYGULAMASI.csproj.GenerateResource.cache
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\ECZANE_UYGULAMASI.csproj.CoreCompileInputs.cache
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.exe
+D:\DERSLER\eczane uygulaması v2\kullanıcı girişi\kullanıcı girişi\obj\Debug\kullanıcı girişi.pdb
